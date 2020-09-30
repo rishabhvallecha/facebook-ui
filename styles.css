@@ -16,6 +16,10 @@
 
 }
 
+h2 {
+    font-weight: normal;
+}
+
 .body {
     background-color: #F0F2F5;
     font-family: 'helveticaregular';
@@ -47,8 +51,9 @@
 }
 
 .header-info-container {
+    font-family: 'sf_pro_displayregular';
     font-size: 20px;
-    font-weight: lighter;
+    font-weight: normal;
     line-height: 32px;
     width: 500px;
     color: #1c1e21;
